@@ -47,7 +47,7 @@ jobs:
         # Learn more about CodeQL language support at https://aka.ms/codeql-docs/language-support
 
     steps:
-    - name: check out repository- name: LocalStack GitHub Actions Login
+    - name:LocalStack GitHub Actions Login
   # You may pin to the exact commit or the version.
   # uses: localstack/localstack-github-actions-login@55cb73dc128e0bc83217ca742569d28579e3c064
   uses: localstack/localstack-github-actions-login@v0.1.0
